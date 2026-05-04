@@ -58,11 +58,15 @@ The dataset includes:
 
 ## Insights & Recommendations
 
-### 🔍 Key Insights
-- Customers with low engagement levels show a significantly higher churn rate  
-- Early-stage customers are more likely to churn compared to long-term customers  
-- Certain customer segments contribute disproportionately to total churn  
-- High-value customers require focused retention strategies  
+## Key Insights
+- Customers with **low engagement levels** have significantly higher churn probability  
+- Customers in the **early lifecycle stage (low tenure)** are more likely to churn  
+- A small segment of customers contributes disproportionately to churn  
+- Retention improves with increased interaction and activity levels  
+
+  ## 📊 Problem Statement
+Customer churn directly impacts business revenue and growth. The objective of this project is to analyze customer behavior and identify patterns that lead to churn, enabling businesses to take proactive retention actions.
+
 
 ### 💡 Business Recommendations
 - Launch targeted retention campaigns for high-risk customers  
@@ -108,4 +112,6 @@ This analysis helps businesses:
 ## 📬 Contact
 If you have any questions or feedback, feel free to connect!
 
+## 🎯 Conclusion
+This project demonstrates how data-driven insights can help businesses identify churn risks early and implement targeted strategies to improve customer retention and long-term profitability.
 
