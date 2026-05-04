@@ -1,17 +1,19 @@
 # 📊 Customer Retention Analysis Dashboard
 
-##  Project Summary
+## 🚀 Project Summary
 This project analyzes customer data to identify churn patterns and improve retention strategies using Power BI. The dashboard highlights key metrics, customer segments, and behavioral trends to support data-driven decision-making.
-
-## Overview
-This project focuses on analyzing customer behavior to identify patterns affecting customer retention and churn. Using Power BI, the data was transformed, modeled, and visualized to generate actionable business insights.
 
 ---
 
-## Objective
-- Analyze customer data to understand churn behavior  
-- Identify key factors influencing customer retention  
-- Provide insights to improve customer loyalty and reduce churn  
+## 📊 Problem Statement
+Customer churn directly impacts business revenue and growth. Identifying customers at risk of leaving helps organizations take proactive actions to improve retention and customer lifetime value.
+
+---
+
+## 🎯 Objective
+- Analyze customer behavior and engagement patterns  
+- Identify key factors influencing churn  
+- Provide actionable insights to improve retention  
 
 ---
 
@@ -25,16 +27,16 @@ This project focuses on analyzing customer behavior to identify patterns affecti
 ## 📂 Dataset
 The dataset includes:
 - Customer demographics  
-- Transaction history  
-- Customer activity and engagement metrics  
+- Transaction/activity data  
+- Engagement and behavioral metrics  
 
 ---
 
-## 📊 Key Work Done
-- Cleaned and transformed raw data using Power Query  
-- Built data model and relationships  
-- Created DAX measures and KPIs  
-- Designed an interactive dashboard for analysis  
+## 📊 Analytical Approach
+- Data cleaning and transformation using Power Query  
+- Data modeling and relationship building  
+- KPI creation using DAX  
+- Customer segmentation and churn analysis  
 
 ---
 
@@ -46,49 +48,32 @@ The dataset includes:
 
 ---
 
-##  Key Insights
-- Customers with **low engagement** have a significantly higher churn probability  
-- Customers with **short tenure (< 6 months)** are most likely to churn  
-- A small segment of customers contributes disproportionately to overall churn  
-- Increased interaction and activity strongly correlate with higher retention  
-
----
-
 ## 📷 Dashboard Preview
-<img width="1123" height="639" alt="image" src="https://github.com/user-attachments/assets/2dc39f98-4a51-479f-a063-c5dd4a3a8c7a" />
+<img width="577" height="323" alt="deshboard3" src="https://github.com/user-attachments/assets/859bb58b-430e-465e-b5c6-fa18840b6425" />
 
 ---
 
-## Insights & Recommendations
+## 🧠 Insights & Recommendations
 
-## Key Insights
-- Customers with **low engagement levels** have significantly higher churn probability  
-- Customers in the **early lifecycle stage (low tenure)** are more likely to churn  
-- A small segment of customers contributes disproportionately to churn  
-- Retention improves with increased interaction and activity levels  
-
-  ## 📊 Problem Statement
-Customer churn directly impacts business revenue and growth. The objective of this project is to analyze customer behavior and identify patterns that lead to churn, enabling businesses to take proactive retention actions.
-
+### 🔍 Key Insights
+- Customers with **low engagement** show higher churn probability  
+- Customers with **short tenure (< 6 months)** are more likely to churn  
+- A small segment contributes disproportionately to overall churn  
+- Higher activity levels strongly correlate with better retention  
 
 ### 💡 Business Recommendations
-- Launch targeted retention campaigns for high-risk customers  
-- Improve onboarding experience to reduce early churn  
-- Use personalized offers to increase engagement  
-- Continuously monitor retention KPIs for proactive decision-making
+- Target high-risk customers with personalized campaigns  
+- Improve onboarding experience for new customers  
+- Increase engagement through offers and communication  
+- Continuously monitor retention KPIs  
 
-## 📊 Analytical Approach
-- Performed customer segmentation based on behavior and activity  
-- Analyzed churn distribution across different customer groups  
-- Evaluated retention trends using key performance indicators  
-- Identified high-risk customer segments for targeted action
-  
+---
+
 ## 📊 Dashboard Explanation
-The dashboard provides insights into:
-- Overall churn distribution  
-- Segment-wise customer retention analysis  
-- Key metrics affecting customer behavior  
-- Trends in customer engagement and activity  
+The dashboard provides:
+- Churn distribution across customer segments  
+- Retention trends over time  
+- Key metrics influencing customer behavior  
 
 ---
 
@@ -97,30 +82,22 @@ The dashboard provides insights into:
 [Loyalty_Program.csv](https://github.com/user-attachments/files/27366729/Loyalty_Program.csv)
 [Customer_Transactions.csv](https://github.com/user-attachments/files/27366727/Customer_Transactions.csv)
 [Churn_Labelled_Customers.csv](https://github.com/user-attachments/files/27366722/Churn_Labelled_Customers.csv)
-<img width="1154" height="623" alt="image" src="https://github.com/user-attachments/assets/b74aae5d-10e1-4406-a791-c1c77b9083f6" />
-
+<img width="599" height="322" alt="deshboard2" src="https://github.com/user-attachments/assets/09b5bdc8-3849-4df9-af1d-b000e811fbb6" />
 
 ---
 
-## 🚀 Business Impact
-This analysis helps businesses:
-- Reduce customer churn  
-- Improve retention strategies  
-- Make data-driven decisions  
-- Enhance customer experience and loyalty  
+## 🎯 Conclusion
+This project demonstrates how data-driven insights can help businesses identify churn risks early and implement targeted strategies to improve customer retention and long-term profitability.
 
 ---
 
 ## 🔮 Future Improvements
-- Apply machine learning models to predict churn  
-- Integrate real-time data updates  
-- Enhance dashboard with advanced filters and drill-down features  
+- Apply machine learning models for churn prediction  
+- Add real-time data integration  
+- Enhance dashboard with advanced drill-down analysis  
 
 ---
 
 ## 📬 Contact
-If you have any questions or feedback, feel free to connect!
-
-## 🎯 Conclusion
-This project demonstrates how data-driven insights can help businesses identify churn risks early and implement targeted strategies to improve customer retention and long-term profitability.
+Feel free to connect for feedback or collaboration.
 
