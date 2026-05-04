@@ -56,6 +56,20 @@ The dataset includes:
 
 ---
 
+## Insights & Recommendations
+
+### 🔍 Key Insights
+- Customers with low engagement levels show a significantly higher churn rate  
+- Early-stage customers are more likely to churn compared to long-term customers  
+- Certain customer segments contribute disproportionately to total churn  
+- High-value customers require focused retention strategies  
+
+### 💡 Business Recommendations
+- Launch targeted retention campaigns for high-risk customers  
+- Improve onboarding experience to reduce early churn  
+- Use personalized offers to increase engagement  
+- Continuously monitor retention KPIs for proactive decision-making  
+
 ## 📊 Dashboard Explanation
 The dashboard provides insights into:
 - Overall churn distribution  
