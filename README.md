@@ -83,7 +83,7 @@ The dashboard provides:
 [Loyalty_Program.csv](https://github.com/user-attachments/files/27366729/Loyalty_Program.csv)
 [Customer_Transactions.csv](https://github.com/user-attachments/files/27366727/Customer_Transactions.csv)
 [Churn_Labelled_Customers.csv](https://github.com/user-attachments/files/27366722/Churn_Labelled_Customers.csv)
-![Dashboard 1](deshboard4.png)
+![Dashboard 1](deshboard3.png)
 ---
 
 ## 🎯 Conclusion
