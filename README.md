@@ -6,7 +6,7 @@ This project analyzes customer data to identify churn patterns and improve reten
 ---
 
 ## 📊 Problem Statement
-Customer churn directly impacts business revenue and growth. Identifying customers at risk of leaving helps organizations take proactive actions to improve retention and customer lifetime value.
+Customer churn significantly impacts business revenue and growth. This project aims to identify customers at risk of leaving and provide insights to improve retention strategies.
 
 ---
 
@@ -49,7 +49,8 @@ The dataset includes:
 ---
 
 ## 📷 Dashboard Preview
-<img width="577" height="323" alt="deshboard3" src="https://github.com/user-attachments/assets/859bb58b-430e-465e-b5c6-fa18840b6425" />
+images/deshboard3
+
 
 ---
 
@@ -59,7 +60,7 @@ The dataset includes:
 - Customers with **low engagement** show higher churn probability  
 - Customers with **short tenure (< 6 months)** are more likely to churn  
 - A small segment contributes disproportionately to overall churn  
-- Higher activity levels strongly correlate with better retention  
+- Increased interaction strongly correlates with higher retention  
 
 ### 💡 Business Recommendations
 - Target high-risk customers with personalized campaigns  
@@ -82,12 +83,11 @@ The dashboard provides:
 [Loyalty_Program.csv](https://github.com/user-attachments/files/27366729/Loyalty_Program.csv)
 [Customer_Transactions.csv](https://github.com/user-attachments/files/27366727/Customer_Transactions.csv)
 [Churn_Labelled_Customers.csv](https://github.com/user-attachments/files/27366722/Churn_Labelled_Customers.csv)
-<img width="599" height="322" alt="deshboard2" src="https://github.com/user-attachments/assets/09b5bdc8-3849-4df9-af1d-b000e811fbb6" />
-
+images/dashboard2
 ---
 
 ## 🎯 Conclusion
-This project demonstrates how data-driven insights can help businesses identify churn risks early and implement targeted strategies to improve customer retention and long-term profitability.
+This project demonstrates how data-driven insights can help businesses identify churn risks early and implement targeted strategies to improve customer retention and profitability.
 
 ---
 
@@ -100,4 +100,3 @@ This project demonstrates how data-driven insights can help businesses identify 
 
 ## 📬 Contact
 Feel free to connect for feedback or collaboration.
-
