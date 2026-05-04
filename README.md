@@ -64,15 +64,12 @@ The dashboard provides insights into:
 - Trends in customer engagement and activity  
 
 ---
+
+## 📂 Project Structure
 [Customer_Demographics.csv](https://github.com/user-attachments/files/27366726/Customer_Demographics.csv)[Store_Locations.csv](https://github.com/user-attachments/files/27366733/Store_Locations.csv)
 [Loyalty_Program.csv](https://github.com/user-attachments/files/27366729/Loyalty_Program.csv)
 [Customer_Transactions.csv](https://github.com/user-attachments/files/27366727/Customer_Transactions.csv)
-
-## 📂 Project Structure
 [Churn_Labelled_Customers.csv](https://github.com/user-attachments/files/27366722/Churn_Labelled_Customers.csv)
-
-
-
 <img width="1154" height="623" alt="image" src="https://github.com/user-attachments/assets/b74aae5d-10e1-4406-a791-c1c77b9083f6" />
 
 
