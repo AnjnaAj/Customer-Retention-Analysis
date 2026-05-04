@@ -1,11 +1,14 @@
 # 📊 Customer Retention Analysis Dashboard
 
-## 📌 Overview
+##  Project Summary
+This project analyzes customer data to identify churn patterns and improve retention strategies using Power BI. The dashboard highlights key metrics, customer segments, and behavioral trends to support data-driven decision-making.
+
+## Overview
 This project focuses on analyzing customer behavior to identify patterns affecting customer retention and churn. Using Power BI, the data was transformed, modeled, and visualized to generate actionable business insights.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Analyze customer data to understand churn behavior  
 - Identify key factors influencing customer retention  
 - Provide insights to improve customer loyalty and reduce churn  
@@ -43,11 +46,11 @@ The dataset includes:
 
 ---
 
-## 📌 Key Insights
-- Customers with lower engagement levels are more likely to churn  
-- Certain customer segments show significantly higher churn rates  
-- Retention improves with increased customer activity and interaction  
-- High-value customers require targeted retention strategies  
+##  Key Insights
+- Customers with **low engagement** have a significantly higher churn probability  
+- Customers with **short tenure (< 6 months)** are most likely to churn  
+- A small segment of customers contributes disproportionately to overall churn  
+- Increased interaction and activity strongly correlate with higher retention  
 
 ---
 
@@ -72,8 +75,14 @@ Customer churn directly impacts business revenue and growth. The objective of th
 - Launch targeted retention campaigns for high-risk customers  
 - Improve onboarding experience to reduce early churn  
 - Use personalized offers to increase engagement  
-- Continuously monitor retention KPIs for proactive decision-making  
+- Continuously monitor retention KPIs for proactive decision-making
 
+## 📊 Analytical Approach
+- Performed customer segmentation based on behavior and activity  
+- Analyzed churn distribution across different customer groups  
+- Evaluated retention trends using key performance indicators  
+- Identified high-risk customer segments for targeted action
+  
 ## 📊 Dashboard Explanation
 The dashboard provides insights into:
 - Overall churn distribution  
